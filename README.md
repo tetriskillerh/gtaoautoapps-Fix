@@ -10,6 +10,11 @@ For this to work, you need:
 7. "Snapmatic Quick launch" set to "OFF"(Pull up while in GTA Online, keep pressing right arrow on keyboard until you will get "settings" tile, enter it, then enter "Snapmatic" and choose "Snapmatic quick launch off").
 
 
+Installation:
+Download .ahk file and "images" folder. "images" folder NEED to be in same location as .ahk file(e.g. if you put .ahk in folder named "123", "images" also need to be in "123" folder as well.
+
+
+
 Controls:
 Numpad0: PAYBACK PHASE
 
