@@ -6,7 +6,7 @@ For this to work, you need:
 3. Game's language set in English.
 4. Safezone size set on 7 ticks(Settings tab, then Display tab; easiest way to set this right - set it on max to the right, then tap left three times).
 5. Phone alerts on "OFF" and Message Frequency set on 1 hour(Settings, Notifications tab).
-6. Frame Limit set on 60 fps and Pause Game on Focus Loss set on "OFF"(Settings, Display tab).
+6. Frame Limit set on 60 fps and Pause Game on Focus Loss set on "OFF"(Settings, Graphics tab).
 7. "Snapmatic Quick launch" set to "OFF"(Pull up while in GTA Online, keep pressing right arrow on keyboard until you will get "settings" tile, enter it, then enter "Snapmatic" and choose "Snapmatic quick launch off").
 
 
