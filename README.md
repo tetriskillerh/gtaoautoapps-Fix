@@ -15,6 +15,9 @@ Download .ahk file and "images" folder. "images" folder NEED to be in same locat
 
 
 
+ALWAYS run script with admin rights.
+
+
 Controls:
 Numpad0: PREPRATION PHASE
 This is for setting up all 10 slots to $550k value on each. As above, you HAVE TO run it in Story Mode. You run it and wait until completion.
