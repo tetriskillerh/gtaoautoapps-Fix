@@ -1,9 +1,9 @@
 Added Fixes:
 
-1: Askes for Admin on Startup.
-2: Use off ALT*F4 and ESC for Auto save insteand of interactiion Menu (Its Safe Coded so it only does this after the Joining Online Text Disappers)
-3: Removed Unaccesary or uneused Code after Importing "Update 2"
-4: It shows in the top left corner when it enables and/or disabbles NO SAVE
+1. Askes for Admin on Startup.
+2. Use off ALT*F4 and ESC for Auto save insteand of interactiion Menu (Its Safe Coded so it only does this after the Joining Online Text Disappers
+3. Removed Unaccesary or uneused Code after Importing "Update 2"
+4. It shows in the top left corner when it enables and/or disabbles NO SAVE
 
 
 
