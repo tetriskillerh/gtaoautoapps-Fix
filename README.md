@@ -10,7 +10,6 @@ Added Fixes:
 
 
 
-
 This is automated script(AHK, v.1.1 for now) for using apartments trade-in exploit in GTA Online.
 
 For this to work, you need:
