@@ -1,4 +1,5 @@
 **Download files are now in the releases instead of the main branch to better document changes.**
+-
 
 This is automated script (AHK, v0.1.0 for now) for using apartments trade-in exploit in GTA Online.
 
