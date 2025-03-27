@@ -22,23 +22,25 @@ The script wont run without admin rights. It needs them to add and remove firewa
 
 **Controls:**
 -
-- Numpad0: PREPRATION PHASE
-This is for setting up all 10 slots to $550k value on each. You HAVE TO run it in Story Mode. You run it and wait until completion.
+**Numpad0**: PREPRATION PHASE
+- This is for setting up all 10 slots to $550k value on each. You HAVE TO run it in Story Mode. You run it and wait until completion.
 
-- Numpad1: PAYBACK PHASE
-This is the main hotkey. You use it for "selling apartments" (when all slots are set). You HAVE TO run this hotkey when in Story mode.
+
+**Numpad1**: PAYBACK PHASE
+- This is the main hotkey. You use it for "selling apartments" (when all slots are set). You HAVE TO run this hotkey when in Story mode.
 Window with input box will appear. You enter how many runs you want to attempt and then just wait until it will be complete.
 
-- Numpad2: No-Save enable "panic button"
-You can use this to enable nosave manually.
+**Numpad2**: No-Save enable "panic button"
+- You can use this to enable nosave manually.
 
-- Numpad3: No-Save disable "panic button"
-You can use this to disable nosave manually.
+**Numpad3**: No-Save disable "panic button"
+- You can use this to disable nosave manually.
 
-- Numpad4: Reload "panic button"
-Use this to reload/"reset" whole AHK script.
+**Numpad4**: Reload "panic button"
+- Use this to reload/"reset" whole AHK script.
 
-- Numpad5: Exit "panic button"
-Use this to kill script completely.
+**Numpad5**: Exit "panic button"
+- Use this to kill script completely.
+
 
 Feel free to change hotkeys to your own to your liking.
