@@ -16,7 +16,8 @@ For this to work, you need:
 
 Installation:
 Download .ahk file and "images" folder. "images" folder NEED to be in same location as .ahk file (e.g. if you put .ahk in folder named "123", "images" also need to be in "123" folder as well.
-You can slo just use the .exe no other files or programms needed **(hotkeys can not be changend for now in .exe)**
+
+You can also just use the .exe no other files or programms needed **(hotkeys can not be changend for now in .exe)**
 
 
 The Script will ask for admin rights.
