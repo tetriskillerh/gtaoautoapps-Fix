@@ -1,4 +1,4 @@
-This is automated script (AHK, v0.1.0 for now) for using apartments trade-in exploit in GTA Online.
+This is automated script (AHK, v1.1 for now) for using apartments trade-in exploit in GTA Online.
 
 For this to work, you need:
 1. GTA5 E&E (Enhanced&Expanded) version of the game (ATM it DOESN'T WORK on Legacy Edition),
@@ -11,12 +11,14 @@ For this to work, you need:
 8. Change Spawn Location to any building except Apartments, Garages and entity packed location like LS Car Meet (exemples: Hanger, Facility, Kostaka, Auto Shop)
 
 
-Installation:
-Download .ahk file and "images" folder. "images" folder NEED to be in same location as .ahk file (e.g. if you put .ahk in folder named "123", "images" also need to be in "123" folder as well.
+**Installation:**
+-
+1. Download .zip and extrakt it (you have to install AutoHotKey v1.1 to use the script)
+or
+2. Download .exe not need to install anything **(hotkeys can not be changend for now in .exe)**
 
-You can also just use the .exe no other files or programms needed **(hotkeys can not be changend for now in .exe)**
-
-
+**IMPORTANT**
+-
 The Script will ask for admin rights.
 The script wont run without admin rights. It needs them to add and remove firewall rules used for NoSave, without admin it cant do that and NoSave will not work.
 
