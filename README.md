@@ -97,7 +97,7 @@ It won't run without admin rights because it needs them to add and remove firewa
 ---
 
 ## Known Bugs
-- Nothin is working right now. curently fixing it
+- None
 
 ---
 
