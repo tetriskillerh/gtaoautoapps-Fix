@@ -1,0 +1,107 @@
+name: 🐛 Bug Report
+description: Report a problem
+labels: ['type:bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a clear and concise description of the bug or issue.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version are you running?
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Steps to Reproduce
+      description: Please describe how to reproduce the undesired behavior.
+      placeholder: |
+        1. Click on [...]
+        2. Scroll up [...]
+        3. Press Key [...]
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots/Videos
+      description: If applicable, please provide screenshots/videos depicting the problem.
+  - type: dropdown
+    id: slowmode
+    attributes:
+      label: Slow Mode
+      options:
+        - 0ms
+        - 50ms
+        - 100ms
+        - 150ms
+        - 200ms
+        - 250ms
+        - 300ms
+    validations:
+      required: true
+  - type: dropdown
+    id: gameversion
+    attributes:
+      label: Game Version
+      options:
+        - R Launcher
+        - Steam
+        - Epic
+    validations:
+      required: true
+  - type: textarea
+    id: cpu
+    attributes:
+      label: CPU
+      description: What model of CPU do you have?
+      placeholder: |
+        Intel Core i7 8700K
+    validations:
+      required: true
+  - type: textarea
+    id: gpu
+    attributes:
+      label: GPU
+      description: What model of GPU do you have?
+      placeholder: |
+        NVIDIA GeForce RTX 2080
+    validations:
+      required: true
+  - type: textarea
+    id: ram
+    attributes:
+      label: ram
+      description: What RAM do you have?
+      placeholder: |
+        1. Number of DIMMs
+        2. MHz
+        3. Amount
+    validations:
+      required: true
+  - type: textarea
+    id: storage
+    attributes:
+      label: Storage
+      description: What storage do you have?
+      placeholder: |
+        1. HDD, 2x SSD (NVMe)
+        2. My system is installed on NVMe
+        3. My game is installed on HDD
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Please provide any additional information that may be relevant or helpful.
