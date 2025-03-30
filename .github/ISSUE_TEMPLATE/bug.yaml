@@ -20,6 +20,15 @@ body:
       description: What version are you running?
     validations:
       required: true
+  - type: dropdown
+    id: versionpack
+    attributes:
+      label: verion type
+      options:
+        - .exe
+        - .ahk
+    validations:
+      required: true
   - type: textarea
     id: repro-steps
     attributes:
