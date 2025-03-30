@@ -85,13 +85,14 @@ It won't run without admin rights because it needs them to add and remove firewa
 - Toggles the display of the NoSave status.  
 - When enabled, a tooltip will show whether NoSave Mode is active or inactive.
 - Use this to visually monitor the NoSave state.
+- Hold `Numpad9` to activate debugging tooltips for better troubleshooting. 
 - **Default:** `off`.
 
 ---
 
 ## NOTES
-- Feel free to change hotkeys to your own preferences (if using the `.ahk` version).
-- If you encounter issues, ensure all requirements are met and admin rights are granted.
+- Feel free to change hotkeys to your own preferences (if using the `.ahk` version).  
+- If you encounter issues, ensure all requirements are met and admin rights are granted.  
 - Before creating a new issue, please check the [Known Bugs](#known-bugs) section to see if the problem is already documented.
 
 ---
