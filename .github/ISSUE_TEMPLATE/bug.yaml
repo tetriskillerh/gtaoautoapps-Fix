@@ -6,6 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+        
   - type: textarea
     id: description
     attributes:
@@ -13,6 +14,7 @@ body:
       description: Please provide a clear and concise description of the bug or issue.
     validations:
       required: true
+      
   - type: input
     id: version
     attributes:
@@ -20,15 +22,18 @@ body:
       description: What version are you running?
     validations:
       required: true
+      
   - type: dropdown
     id: versionpack
     attributes:
-      label: verion type
+      label: Executable or Script
+      description: executable or script.
       options:
         - .exe
         - .ahk
     validations:
       required: true
+      
   - type: textarea
     id: repro-steps
     attributes:
@@ -40,20 +45,24 @@ body:
         3. Press Key [...]
     validations:
       required: true
+      
   - type: textarea
     id: media
     attributes:
       label: Screenshots/Videos
       description: If applicable, please provide screenshots/videos depicting the problem.
+      
   - type: textarea
     id: logs
     attributes:
       label: Logs
       description: Please upload or paste any relevant log output.
+      
   - type: dropdown
     id: slowmode
     attributes:
       label: Slow Mode
+      description: What Slow Mode are you using.
       options:
         - 0ms
         - 50ms
@@ -64,16 +73,19 @@ body:
         - 300ms
     validations:
       required: true
+      
   - type: dropdown
     id: gameversion
     attributes:
       label: Game Version
+      description: Where did you download the Game.
       options:
         - R Launcher
         - Steam
         - Epic
     validations:
       required: true
+      
   - type: textarea
     id: cpu
     attributes:
@@ -83,6 +95,7 @@ body:
         Intel Core i7 8700K
     validations:
       required: true
+      
   - type: textarea
     id: gpu
     attributes:
@@ -92,6 +105,7 @@ body:
         NVIDIA GeForce RTX 2080
     validations:
       required: true
+      
   - type: textarea
     id: ram
     attributes:
@@ -103,6 +117,7 @@ body:
         3. Amount
     validations:
       required: true
+      
   - type: textarea
     id: storage
     attributes:
@@ -114,6 +129,7 @@ body:
         3. My game is installed on HDD
     validations:
       required: true
+      
   - type: textarea
     id: additional-context
     attributes:
