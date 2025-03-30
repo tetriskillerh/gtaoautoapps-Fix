@@ -36,6 +36,12 @@ body:
     attributes:
       label: Screenshots/Videos
       description: If applicable, please provide screenshots/videos depicting the problem.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Please copy and paste any relevant log output. (This will be automatically formatted into code, so no need for backticks.)
+      render: shell
   - type: dropdown
     id: slowmode
     attributes:
