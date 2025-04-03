@@ -37,6 +37,7 @@ For this to work, you need:
    - Pull up the phone while in GTA Online, press the right arrow until you reach the "settings" tile, enter it, then go to "Snapmatic" and choose "Snapmatic Quick Launch OFF",
 8. Spawn Location set to any building **except**:
    - Apartments, Garages, or entity-packed locations like LS Car Meet (examples: Hangar, Facility, Kosatka, Auto Shop).
+9. Please set your screenscaling to 100% on windows settings.
 
 ---
 
