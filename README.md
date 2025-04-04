@@ -1,3 +1,9 @@
+# NOT PATCHED BUT BANNS ARE ROLLING OUT DONT USE IT ANYMORE
+
+---
+---
+---
+
 # GTA Online Apartments Trade-In Exploit Script
 
 This is an automated script (AHK, v1.1 for now) for using the apartments trade-in exploit in GTA Online.
